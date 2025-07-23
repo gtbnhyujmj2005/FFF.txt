@@ -1,0 +1,27 @@
+BC162836 - BC162836 - BC162836 - Danio rerio melanocortin 1 receptor, mRNA (cDNA clone MGC:194185 IMAGE:9037387), complete cds.
+BC162848 - BC162848 - BC162848 - Danio rerio melanocortin 1 receptor, mRNA (cDNA clone MGC:194219 IMAGE:9037389), complete cds.
+
+這是神麼意思? 
+
+
+ChatGPT 說：
+Reasoned about cDNA clone information花了 6 秒
+這段信息是來自基因資料庫（例如 NCBI GenBank）的記錄，每一行代表一個基因序列的條目。具體解釋如下：
+
+BC162836 和 BC162848：這些是序列的唯一識別碼（accession numbers），用於在資料庫中查詢和引用這些特定的基因序列。
+
+Danio rerio melanocortin 1 receptor, mRNA：這表示記錄的是斑馬魚（學名 Danio rerio）的 melanocortin 1 receptor（黑色素皮質素1受體）的 mRNA 序列。該受體通常與皮膚色素的調控有關。
+
+(cDNA clone MGC:194185 IMAGE:9037387) 及類似的標識：這部分指出該 mRNA 序列是從特定的 cDNA 克隆中獲得的，並提供了相關的內部編號或圖像編號（IMAGE），這些信息主要用於實驗室記錄和後續研究中辨識該克隆。
+
+complete cds：表示記錄中包含了完整的編碼序列（coding sequence），也就是從起始密碼子到終止密碼子的完整 mRNA 序列，這部分序列能夠翻譯成完整的蛋白質。
+
+簡而言之，這兩條記錄提供了完整的斑馬魚黑色素皮質素1受體的 mRNA 序列，並附帶了相關的克隆和識別信息，方便科學家進行進一步的研究和參考。
+
+
+
+
+
+
+
+
