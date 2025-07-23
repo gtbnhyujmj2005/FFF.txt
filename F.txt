@@ -1,0 +1,44 @@
+下面提供一個簡化的系統發生樹，展示斑馬魚、青鱂魚、尼羅羅非魚與鯉魚（以常見的鯉魚即鯉科魚類，例如普通鯉魚 Cyprinus carpio為例）之間的大致親緣關係。需要注意的是，現代分子系統學研究顯示，這些魚類雖同屬硬骨魚綱（Actinopterygii，條鰭魚），但其演化分支相當遙遠，下面的樹狀圖僅是一個概略示意：
+
+scss
+複製
+編輯
+                              ┌───────────────────────── Ostariophysi
+                              │           (Cypriniformes)
+                              │                 │
+                              │         ┌───────┴───────┐
+                              │         │               │
+                              │   鯉魚 (Cyprinus carpio)  斑馬魚 (Danio rerio)
+Teleostei ────────────────────┤
+                              │         ┌───────────────────────── Ovalentaria
+                              │         │           (Euteleostei內的一支)
+                              │         │                │
+                              │         │        ┌───────┴─────────┐
+                              │         │        │                 │
+                              │         │    青鱂魚 (Oryzias latipes)  尼羅羅非魚 (Oreochromis niloticus)
+解釋說明
+Teleostei（條鰭魚）
+所有這些物種都屬於條鰭魚，但在演化分支上存在明顯區別。
+
+Ostariophysi（鯉形目群）
+
+**鯉魚（Cyprinus carpio）與斑馬魚（Danio rerio）**均屬於鯉形目（Cypriniformes），它們在演化上屬於同一大分支（Ostariophysi），彼此間的親緣關係較近。
+
+這一群中還包括許多淡水魚，特點是擁有獨特的化學感受器（如警戒器官）。
+
+Ovalentaria（卵囊類）
+
+**青鱂魚（Medaka, Oryzias latipes）與尼羅羅非魚（Oreochromis niloticus）**均被歸入Ovalentaria這一群體，這一類群包含了許多“較高等”的硬骨魚，但它們與Ostariophysi分支有較早的分化。
+
+雖然青鱂魚與尼羅羅非魚分別屬於不同的科（青鱂魚常放在鱂魚科，尼羅羅非魚則屬於慈鯛科），但分子系統學研究顯示，它們共享一個較接近的共同祖先。
+
+總結
+鯉魚與斑馬魚都屬於鯉形目（Ostariophysi），在親緣上較為接近。
+
+青鱂魚與尼羅羅非魚則屬於另一大分支Ovalentaria，這一分支與Ostariophysi相比，代表了條鰭魚中一個獨立且較晚分化的系統發生線。
+
+這個簡化樹狀圖有助於理解：
+
+在條鰭魚內部，Ostariophysi（包含鯉魚和斑馬魚）與Ovalentaria（包含青鱂魚和尼羅羅非魚）之間存在明顯的系統發生分支；
+
+鯉魚與斑馬魚在形態與基因上較為接近，而青鱂魚與尼羅羅非魚則在另一演化支系上相對接近。
