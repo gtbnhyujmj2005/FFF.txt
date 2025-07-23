@@ -1,0 +1,23 @@
+這是一張下拉選單的截圖，其中列出了更多的物種名稱。這些物種名稱可能用於科學研究（例如基因研究、生物信息學分析）。以下是部分物種的簡介：
+
+C. brenneri、C. briggsae、C. elegans、C. japonica、C. remanei：這些屬於線蟲（Caenorhabditis）屬，是常見的模式生物，特別是 C. elegans 被廣泛用於遺傳學和發育生物學研究。
+
+Cat：家貓（Felis catus），常見的寵物哺乳動物。
+
+Chicken：雞（Gallus gallus domesticus），家禽，常用於農業生產和生物醫學研究。
+
+Chimp：黑猩猩（Pan troglodytes），一種與人類有很近親緣關係的靈長類動物。
+
+Chinese hamster：中國倉鼠（Cricetulus griseus），其卵巢細胞（CHO細胞）廣泛用於生物技術研究。
+
+Chinese pangolin：中華穿山甲（Manis pentadactyla），瀕危哺乳動物，因其鱗片而遭到非法捕獵。
+
+Coelacanth：腔棘魚（Latimeria chalumnae），一種活化石，代表了古老的脊椎動物演化。
+
+Cow：牛（Bos taurus），一種被馴化的反芻動物，對農業和食品工業有重要貢獻。
+
+Crab-eating macaque：食蟹獼猴（Macaca fascicularis），靈長類動物，常用於科學研究。
+
+D. erecta、D. grimshawi：屬於果蠅（Drosophila）屬，是遺傳學研究的重要模式生物。
+
+此列表的物種範圍廣泛，涵蓋從線蟲到靈長類，表明這可能是某種生物數據庫或研究工具的一部分，用於選擇特定物種進行分析或操作。
